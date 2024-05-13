@@ -10,6 +10,8 @@
   line-height:normal;
   text-transform:none;
 }
+.box_1 {
+}
 .box_2 {
 }
 .link_button {
@@ -79,6 +81,8 @@
 .radio_button {
   font-size:40px;
   text-align:left;
+}
+._连接 {
 }
 .form_hint {
   color:#999999;
