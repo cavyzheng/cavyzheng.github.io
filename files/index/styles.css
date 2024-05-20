@@ -1175,10 +1175,10 @@
   width:573px;
   height:52px;
   padding:3px 2px 3px 2px;
-  font-family:'等线 Bold', '等线 Regular', '等线';
+  font-family:'黑体 Bold', '黑体 Regular', '黑体';
   font-weight:700;
   font-style:normal;
-  font-size:46px;
+  font-size:50px;
   letter-spacing:normal;
   color:#000000;
   vertical-align:none;
@@ -1198,15 +1198,15 @@
 #u39 {
   border-width:0px;
   position:absolute;
-  left:236px;
+  left:266px;
   top:159px;
   width:573px;
   height:52px;
   display:flex;
-  font-family:'等线 Bold', '等线 Regular', '等线';
+  font-family:'黑体 Bold', '黑体 Regular', '黑体';
   font-weight:700;
   font-style:normal;
-  font-size:46px;
+  font-size:50px;
   text-align:center;
 }
 #u39 .text {
