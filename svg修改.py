@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 
 with open(r'images\index\ub_selected.svg', 'r', encoding='utf-8') as file:
@@ -16,6 +17,6 @@ for i in range(21, 158):  # 修改范围从u21到u157
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(content)
         
-        print(f'{file_name} 修改完成')
+        print(f'{file_name} completed')
     else:
-        print(f'{file_name} 文件不存在')
+        print(f'{file_name} not exsit')

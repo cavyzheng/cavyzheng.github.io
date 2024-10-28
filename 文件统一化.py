@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from bs4 import BeautifulSoup
 
 # 读取 HTML 文件
