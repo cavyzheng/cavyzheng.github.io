@@ -32,4 +32,4 @@ for i in range(1, 13):  # 从 q1 到 q12
 with open('index.html', 'w', encoding='utf-8') as file:
     file.write(str(soup))
 
-print("HTML 文件修改完成！")
+print("HTML files fixed!")

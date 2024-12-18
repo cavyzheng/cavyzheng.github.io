@@ -17,9 +17,9 @@ for i in range(21, 158):  # 修改范围从u21到u157
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(content)
 
-        print(f'{file_name} 修改完成')
+        print(f'{file_name} fixed!')
     else:
-        print(f'{file_name} 文件不存在')
+        print(f'{file_name} don\'t exist!')
 
 # 读取 HTML 文件
 html_file = 'index.html'  # 替换为你的 HTML 文件路径
@@ -52,4 +52,4 @@ for i in range(1, 13):  # 从 q1 到 q12
 with open('index.html', 'w', encoding='utf-8') as file:
     file.write(str(soup))
 
-print("HTML 文件修改完成！")
+print("HTML files fixed!")
